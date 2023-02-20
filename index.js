@@ -1,8 +1,4 @@
-// document.querySelector("button").addEventListener("click", handleClick);
 
-// function handleClick(){
-//     alert("I'm clikced");
-// }
 
 var size = document.querySelectorAll(".drum").length;
 
